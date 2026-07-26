@@ -27,7 +27,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Aktai-ltd/envello-schemas.git"
+    "url": "git+https://github.com/Bergblumestudio/envello-schemas.git"
   },
   "scripts": {
     "build": "tsc -p tsconfig.json",
