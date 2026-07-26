@@ -1,6 +1,6 @@
 {
   "name": "@envello/schemas",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Shared Zod request/response schemas for the Envello transactional email API. Used internally by apps/api and apps/dashboard, and as the envello SDK's type source.",
   "license": "MIT",
   "type": "module",
